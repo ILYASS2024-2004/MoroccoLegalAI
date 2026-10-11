@@ -1,4 +1,4 @@
-# Qanoon AI : Architecture RAG Avancee et Agent Juridique Marocain
+# MoroccoLegalAI : Architecture RAG Avancee et Agent Juridique Marocain
 
 ## Table des matieres
 
